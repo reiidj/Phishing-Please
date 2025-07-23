@@ -14,7 +14,8 @@ A playable build is available in the repository.
 > ⚠️ Make sure to allow permissions if your operating system flags the file as unknown – this is a common behavior for non-signed executables.
 
 ## 📸 Screenshots
-![Uploading Phishing Please Game.png…]()
+
+<img width="1472" height="828" alt="Phishing Please Game" src="https://github.com/user-attachments/assets/e9943b7c-f697-4216-8924-1110f94bd2d8" />
 
 
 ## 🧠 Learning Outcomes
