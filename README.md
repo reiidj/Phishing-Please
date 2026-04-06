@@ -21,7 +21,7 @@ High-Fidelity Rendering: Utilizes Unity's Universal Render Pipeline (URP) to pro
 
 ### Project Demonstration
 
-[![Phishing Please Gameplay Demonstration](Media/ss_level1.png)](https://github.com/reiidj/Phishing-Please/blob/master/Media/phishing-demo.mp4)
+[![Phishing Please Gameplay Demonstration](https://github.com/reiidj/Phishing-Please/blob/master/Media/phishing-poster.png)](https://github.com/reiidj/Phishing-Please/blob/master/Media/phishing-demo.mp4)
 
 *Click the image above to view the full 7-level educational simulation walkthrough.*
 
